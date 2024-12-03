@@ -1,0 +1,6 @@
+.vscode
+[B/b]uild
+target
+node_modules
+input.txt
+*.exe
